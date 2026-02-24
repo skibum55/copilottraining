@@ -68,7 +68,7 @@
 
 ### Sample Solution Structure
 
-Participants should have the following solution open in Visual Studio 2026:
+Clone this repository and open the following solution open the `CopilotTraining.sln` solution in Visual Studio 2026:
 
 ```
 📁 CopilotTraining/
@@ -95,6 +95,6 @@ Participants should have the following solution open in Visual Studio 2026:
 │       └── 📁 Controllers/
 │           └── 📄 OrdersController.cs
 └── 📄 CopilotTraining.sln
+```
 
-
-*Training materials version 3.0 | Last updated: 202602024 | Maintainer: Sean Keery*
+*Training materials version 3.1 | Last updated: 202602024 | Maintainer: Sean Keery*
