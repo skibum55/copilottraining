@@ -1,3 +1,5 @@
+## Module 1: Foundations & Core Concepts (15 minutes)
+
 ### 1.1 Level Setting: Key Terminology (5 min)
 
 **What is a Prompt?**

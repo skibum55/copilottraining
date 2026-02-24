@@ -19,7 +19,7 @@
 ### Module 1: Foundations & Core Concepts (15 min)
 - Level setting: Key terminology
   - What is a prompt and how AI perceives intent
-  - Core terms: prompts, context, skills, instructions, agents
+  - Core terms: prompts, context, skills, instructions, agents, tools
 - Standard use phrases for guiding AI behavior
 - **Exercise 1:** First interaction with Copilot Chat
 
@@ -97,5 +97,10 @@ Clone this repository and open the following solution open the `CopilotTraining.
 └── 📄 CopilotTraining.sln
 
 ```
+
+---
+### Next Session
+
+Bringing this all into our work.
 
 *Training materials version 3.1 | Last updated: 202602024 | Maintainer: Sean Keery*
