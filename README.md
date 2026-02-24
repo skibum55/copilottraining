@@ -97,4 +97,9 @@ Clone this repository and open the following solution open the `CopilotTraining.
 └── 📄 CopilotTraining.sln
 ```
 
+---
+### Next Session
+
+Bringing this all into our work.
+
 *Training materials version 3.1 | Last updated: 202602024 | Maintainer: Sean Keery*
