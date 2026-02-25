@@ -8,7 +8,7 @@
 | **Duration** | 90 minutes (initial training) |
 |--------------|-------------------------------|
 | **Audience** | Junior developers new to AI coding assistants |
-| **Prerequisites** | Basic C# knowledge, VS 2026 installed, Copilot license active, completed Testing Fundamentals session, [restore, build & run solution](##pre-training-setup) |
+| **Prerequisites** | Basic C# knowledge, VS 2026 installed, Copilot license active, completed Testing Fundamentals session, [restore, build & run solution](#pre-training-setup) |
 | **Format** | Instructor-led with hands-on exercises |
 | **Materials** | Sample Visual Studio solution provided |
 
@@ -66,9 +66,9 @@
 
 ## Pre-Training Setup
 
-Clone this repository and open the following solution open the `CopilotTraining.sln` solution in Visual Studio 2026.  Ensure that all necessary NuGet packages are restored prior to building by allowing the IDE to automatically handle the process or by manually triggering a `dotnet restore` in the root directory.  To build the solution, open `CopilotTraining.sln` in Visual Studio 2026 and press `Ctrl+Shift+B` or select Build → Build Solution from the menu. To run the API project, set `CopilotTraining.Api` as the startup project by right-clicking it in Solution Explorer and selecting "Set as Startup Project," then press `F5` to start debugging or `Ctrl+F5` to run without debugging (or by using the `dotnet run` command to execute the project's entry point.) The API will launch in your browser with the Swagger UI available at the configured URL (typically `https://localhost:5001/swagger`), allowing you to explore and test the available endpoints interactively. Since this is a training solution with in-memory repositories, no database setup is required and all data will reset when the application restarts. To verify the codebase, utilize the Test Explorer window within Visual Studio to execute unit tests or run the `dotnet test` command to view results across the entire solution. 
+Clone this repository and open the following solution open the [solution](CopilotTraining.sln) in Visual Studio 2026.  Ensure that all necessary NuGet packages are restored prior to building by allowing the IDE to automatically handle the process or by manually triggering a `dotnet restore` in the root directory.  To build the solution, select `CopilotTraining.sln` in Visual Studio 2026 and press `Ctrl+Shift+B` or select Build → Build Solution from the menu. To run the API project, set `CopilotTraining.Api` as the startup project by right-clicking it in Solution Explorer and selecting "Set as Startup Project," then press `F5` to start debugging or `Ctrl+F5` to run without debugging (or by using the `dotnet run` command to execute the project's entry point.) The API will launch in your browser with the Swagger UI available at the configured URL (typically `https://localhost:5001/swagger`), allowing you to explore and test the available endpoints interactively. Since this is a training solution with in-memory repositories, no database setup is required and all data will reset when the application restarts. To verify the codebase, utilize the Test Explorer window within Visual Studio to execute unit tests or run the `dotnet test` command to view results across the entire solution. 
 
-### Sample Solution Structure
+### Solution Structure
 
 ```
 📁 CopilotTraining/
