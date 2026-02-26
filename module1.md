@@ -18,7 +18,6 @@
 **What is a Prompt?**
 - Definition: Any input you provide to an AI assistant—questions, attachments (including images), instructions, code, comments, or context (including prior chat interactions)
 - A prompt is your way of sharing context and communicating *intent* to the AI
-- Everything the AI "sees" becomes part of the prompt: your code, open files, comments, and explicit instructions (IS THIS DUPLICATIVE?)
 
 **How AI Perceives Your Prompts:**
 
