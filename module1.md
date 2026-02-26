@@ -99,6 +99,7 @@ Before writing any code:
    - "Set initial status to 'Pending'"
 
 5. Review the proposed approach
+
 6. **Do not implement yet** — we'll do this in Module 2
 
 **Discussion Points:**
@@ -107,4 +108,5 @@ Before writing any code:
 - Compare experiences across the group
 
 **Key Insight 4:** If you ask AI to include an existing file in your repo or your whole repo, it should let you know whether or not it has access to that content. In some cases, you may need to adjust your AI settings to allow access. Some models may not interact with content outside of the specific chat window.
+
 **Key Insight 5:** It's reasonable to include the same "Before writing code:" instructions to AI for any following prompts to ensure AI has a clear understanding of your intent.
