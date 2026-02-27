@@ -19,6 +19,10 @@
 └── 📄 CopilotTraining.sln
 ```
 
+**Key Insight 1:** AI will look for your prompt file under the active repo home directory in the .github/ folder. This assumes GitHub Copilot.
+
+**Caution:** Using the training prompt file in your production work today may have unintented consequences. You may want to wait until your team includes an approved prompt file in your production repo.
+
 **Why Use Prompts Files?**
 - Consistency across all AI interactions
 - Team coding standards automatically applied
